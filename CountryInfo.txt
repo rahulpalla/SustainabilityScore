@@ -1,5 +1,5 @@
 Country	RenewableElec   RecyclingRate CarbonEmissions
-USA	    17	            35	            16
+USA	    17	            35	            6
 Iceland	99	            61	            6
 UK	    40	            47	            6
 China	38	            49	            7
